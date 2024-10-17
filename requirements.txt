@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+duckduckgo-search
+python-dotenv
+SpeechRecognition
+pydub
+Pillow
+pytesseract
