@@ -16,7 +16,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/timurkaff/Chat_GPT_FOR_TELEGRAMM.git
+    git clone https://github.com/timurkaff/Chat-GPT-for-Telegramm.git
     ```
 
 2. Установите зависимости:
